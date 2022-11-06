@@ -1,12 +1,24 @@
-Hi, I'm Pedro, I'm 19 years old and I live in Goiânia, Goiás, Brazil, and I'm studying programming. 
-I am graduating in Systems Analysis and Development at Faculdade Senac Goiás.
-I'm studying Java, MySQL, and JavaScript languages.
-I'm interested in Python 3, TypeScript, Angular JS, PostgreSQL and PHP languages.
-
--------
+## Apresentação sobre mim
 
 Olá, sou Pedro, tenho 19 anos e moro em Goiânia, Goiás, Brasil, e estou estudando programação. 
 Estou me graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac Goiás.
-Estou estudando as linguagens Java, MySQL, e JavaScript.
-Tenho interesse nas linguagens Phyton 3, TypeScript, Angular JS, PostgreSQL e PHP.
+Estou estudando e tenho conhecimento em Java e SQL.
 
+## Links Úteis
+
+Aqui ficará links úteis que podem ser utilizados por todos, e que irei atualizando de acordo com minhas utilizações.
+
+[Sintaxe Markdown](https://www.markdownguide.org/basic-syntax/)
+
+[Site DIO](dio.me)
+
+[Linkedin](https://www.linkedin.com)
+
+
+## Redes Sociais
+
+As minhas redes sociais:
+
+[Instagram](https://www.instagram.com/pedroohhss/)
+
+[Linkedin](https://www.linkedin.com/in/pedroohhss/)
