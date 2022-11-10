@@ -23,3 +23,4 @@ As minhas redes sociais:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![](https://komarev.com/ghpvc/?username=pedroohhss&label=Views&color=116262)
