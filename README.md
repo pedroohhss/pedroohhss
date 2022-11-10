@@ -6,7 +6,7 @@ Estou estudando e tenho conhecimento em Java e SQL.
 
 ## Github Stats
 
-![Pedroohhss GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroohhss&show_icons=true&theme=dracula))
+![Pedroohhss GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroohhss&show_icons=true&theme=dracula)
 
 ## Redes Sociais
 
