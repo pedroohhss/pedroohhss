@@ -1,9 +1,3 @@
-## Apresentação sobre mim
-
-Olá, sou Pedro, tenho 19 anos e moro em Goiânia, Goiás, Brasil, e estou estudando programação. 
-Estou me graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac Goiás.
-Estou estudando e tenho conhecimento em Java e SQL.
-
 ## Github Stats
 
 ![Pedroohhss GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroohhss&show_icons=true&theme=dracula)
